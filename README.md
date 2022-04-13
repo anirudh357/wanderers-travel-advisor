@@ -7,7 +7,7 @@ ss
 In the project directory, you can run:s
 d
 ### `npm start`
-s
+ss
 Runs the app in the development modes.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
