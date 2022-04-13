@@ -1,70 +1,34 @@
-# Getting Started with Create React Apps
-s
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Wanderers-Travel Advisor
 
-## Available Scriptsa
-ssa
-In the project directory, you can run:s
-da
-### `npm start`
-ss
-Runs the app in the development modes.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In Light Mode ☀️
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="1280" alt="2022-04-14" src="https://user-images.githubusercontent.com/76739126/163261873-888bd9bb-0f22-454e-9859-7a22e86b1898.png">
 
-### `npm test`
+In Dark Mode 🌑
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="1280" alt="2022-04-14 (1)" src="https://user-images.githubusercontent.com/76739126/163261950-1554a183-5b8a-4af6-8a3c-119417d26986.png">
 
-### `npm run build`
+## Introduction
+Build and Deploy an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering, Dark Mode and much more.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
+[Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
+[Open Weather Map API](https://rapidapi.com/community/api/open-weather-map?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Future Plans
+1) To add safety travel feature using covid API to show cases, recovery,etc and covid vaccination API for info regarding covid vaccinated population. ![GlobalHealthWorldHealthDayGIF](https://user-images.githubusercontent.com/76739126/163262826-53bbee28-dacd-4eff-94c3-121ff0a9576e.gif)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2) To add pollution parameter check using pollution API. ![BuildbackbetterClimateGIF](https://user-images.githubusercontent.com/76739126/163263079-1940eb8d-e21b-480e-bc80-3acf891d11ad.gif)
 
-### `npm run eject`
+3) To add flight routes feauture. ![RidingPlaneGIF](https://user-images.githubusercontent.com/76739126/163263397-bf12d8ed-946c-40b3-aa8b-c761daba8127.gif)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Youtube Link
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+https://www.youtube.com/watch?v=RE6qA3H_dpQ&ab_channel=AnirudhSharma
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Special Mentions - Google Solutions Challenge
+Participated with it in Google UN Solution Challenge 2022. ![GoogleLogoGIF](https://user-images.githubusercontent.com/76739126/163263760-8a04a224-fc23-4a3f-aa7b-e7419bb197a8.gif)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Setup: run ```npm i && npm start``` to start the development server
