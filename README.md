@@ -29,7 +29,9 @@ https://www.youtube.com/watch?v=RE6qA3H_dpQ&ab_channel=AnirudhSharma
 
 
 ## Special Mentions - Google Solutions Challenge
-Participated with it in Google UN Solution Challenge 2022. https://miro.medium.com/max/1040/1*dZgnRCXcQ_rw3yPaDKbkEQ.gif
+Participated with it in Google UN Solution Challenge 2022. 
+
+![1_dZgnRCXcQ_rw3yPaDKbkEQ](https://user-images.githubusercontent.com/76739126/163687292-118a2511-228d-4a8b-9156-054e67ca91e9.gif)
 
 
 Setup: run ```npm i && npm start``` to start the development server
